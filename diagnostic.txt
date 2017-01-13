@@ -1,0 +1,15 @@
+--------- beginning of /dev/log/system
+--------- beginning of /dev/log/main
+I/MainActivity( 2034): onCreate event fired
+I/MainActivity( 2034): onStart event fired
+I/MainActivity( 2668): onCreate event fired
+I/MainActivity( 2668): onStart event fired
+I/MainActivity( 2668): onResume event fired
+I/MainActivity( 2668): onPause event fired
+I/MainActivity( 2668): onStop event fired
+I/MainActivity( 2668): onRestart event fired
+I/MainActivity( 2668): onStart event fired
+I/MainActivity( 2668): onResume event fired
+I/MainActivity( 2668): onPause event fired
+I/MainActivity( 2668): onStop event fired
+E/MainActivity( 2668): We're going down, Captain!
